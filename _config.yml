@@ -5,7 +5,7 @@
 # Site
 title: journey-c
 subtitle: '举杯独醉，饮罢飞雪，茫然又一年岁。'
-description: ''
+description: '我有很多证据表明，这个世界在密谋着让我快乐。'
 keywords:
 author: journey-c
 language: zh-CN
@@ -106,3 +106,10 @@ deploy:
   type: git
   repo: https://github.com/journey-c/journey-c.github.io.git 
   branch: master
+
+math:
+  engine: 'mathjax' # or 'katex'
+  mathjax:
+    # src: custom_mathjax_source
+    config:
+      # MathJax config

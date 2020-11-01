@@ -1,8 +1,11 @@
 ---
 title: goroutine 源码阅读
-categories: golang
+categories:
+- 语言
+- Golang
 tags:
-	源码
+- 源码
+- Golang
 ---
 
 # 数据结构
